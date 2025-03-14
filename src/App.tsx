@@ -15,7 +15,7 @@ function App() {
   };
 
   const sections: Section[] = [
-    {
+    /*{
       id: 'experience',
       title: 'Experiência',
       content: (
@@ -77,7 +77,7 @@ function App() {
           </div>
         </div>
       )
-    },
+    },*/
     {
       id: 'education',
       title: 'Formação Acadêmica',

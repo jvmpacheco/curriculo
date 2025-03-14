@@ -24,56 +24,56 @@ function App() {
             <h4 className="font-semibold">Analista de TI Jr</h4>
             <p className="text-gray-600">Externa Network | Rio de Janeiro, RJ</p>
             <p className="text-gray-500">06/2023 - Atual</p>
-            <p className="mt-2">Atendimento remoto (telefone, whatsapp, abertura de chamados) e presencial aos usuários de outras empresas (clientes da empresa na qual trabalho), para assuntos de maior complexidade que exigem análise e desenvolvimento de respostas específicas; Análise dos possíveis erros apresentados durante os atendimentos, busca e orientação à solução solicitada e, de acordo com o problema, agendamento de visita técnica para resolver trabalhos que não possam ser resolvidos remotamente (acesso via AnyDesk e Área de trabalho remota do Windows); Auxílio, orientação e treinamento de clientes, bem como criação de documentação e tutoriais (quando necessário); Atualmente encarregado de gerir TI do Cemitério da Penitência, ficando responsável por prestar manutenção e suporte à computadores, notebooks, impressoras; TV Box; internet (cabeada e wi-fi); VOIP; DVR's e acesso às câmeras; Terminal Service, Active Directory, Windows Server e servidor de impressão.</p>
+            <p className="mt-2">Atendimento remoto (telefone, WhatsApp, abertura de chamados) e presencial aos usuários de outras empresas (clientes da empresa na qual trabalho) para assuntos de maior complexidade, que exigem análise e desenvolvimento de respostas específicas. Análise dos possíveis erros apresentados durante os atendimentos, busca e orientação para a solução solicitada e, de acordo com o problema, agendamento de visita técnica para resolver trabalhos que não possam ser resolvidos remotamente (acesso via AnyDesk e Área de Trabalho Remota do Windows). Auxílio, orientação e treinamento de clientes, bem como criação de documentação e tutoriais, quando necessário. Atualmente, encarregado de gerir a TI do Cemitério da Penitência, ficando responsável por prestar manutenção e suporte a computadores, notebooks, impressoras, TV Box, internet (cabeada e Wi-Fi), VOIP, DVRs e acesso às câmeras, Terminal Service, Active Directory, Windows Server e servidor de impressão.</p>
           </div>
 
           <div className="experience-item">
             <h4 className="font-semibold">Técnico de Suporte Nível 3</h4>
             <p className="text-gray-600">Connectcom Teleinformática Comércio e Serviços LTDA | Rio de Janeiro, RJ</p>
             <p className="text-gray-500">02/2022 - 02/2023</p>
-            <p className="mt-2">Prestei serviço para o Ministério da Saúde, no Hospital Federal dos Servidores do Estado, trabalhando com suporte e manutenção de hardware e software em geral, incluindo suporte, montagem e manutenção de microcomputadores; suporte a notebooks, celulares e impressoras; Windows, Office e programas diversos pertinentes ao serviço executado nos setores do hospital; configurações de rede wi-fi, proxy e domínio, bem como suporte remoto, via ramal, quando necessário.</p>
+            <p className="mt-2">Prestei serviço para o Ministério da Saúde, no Hospital Federal dos Servidores do Estado, trabalhando com suporte e manutenção de hardware e software em geral, incluindo suporte, montagem e manutenção de microcomputadores, suporte a notebooks, celulares e impressoras, Windows, Office e programas diversos pertinentes ao serviço executado nos setores do hospital, além de configurações de rede Wi-Fi, proxy e domínio, bem como suporte remoto, via ramal, quando necessário.</p>
           </div>
 
           <div className="experience-item">
             <h4 className="font-semibold">Almoxarife</h4>
-            <p className="text-gray-600">G&E SERVICOS TERCEIRIZADOS LTDA | Rio de Janeiro, RJ</p>
+            <p className="text-gray-600">G&E Serviços Terceirizados LTDA | Rio de Janeiro, RJ</p>
             <p className="text-gray-500">07/2021 - 02/2022</p>
-            <p className="mt-2">Trabalhei prestando serviço de almoxarife no Hospital Federal dos Servidores do Estado, nos setores Nefrologia, Patrimônio e Informática, tendo também exercido algumas funções referentes à TI no setor de Informática. Por fim prestei serviço no Instituto Nacional de Traumatologia e Ortopedia, tendo integrado a equipe da Farmácia e, posteriormente, da ADIMP (Área de dispositivos implantáveis).</p>
+            <p className="mt-2">Trabalhei prestando serviço de almoxarife no Hospital Federal dos Servidores do Estado, nos setores de Nefrologia, Patrimônio e Informática, tendo também exercido algumas funções referentes à TI no setor de Informática. Por fim, prestei serviço no Instituto Nacional de Traumatologia e Ortopedia, tendo integrado a equipe da Farmácia e, posteriormente, da ADIMP (Área de Dispositivos Implantáveis).</p>
           </div>
 
           <div className="experience-item">
             <h4 className="font-semibold">Supervisor de Contas a Pagar</h4>
             <p className="text-gray-600">Fibralink | Rio de Janeiro, Magé - RJ</p>
             <p className="text-gray-500">10/2018 - 01/2021</p>
-            <p className="mt-2">Provedor de internet banda larga de tecnologia fibra óptica. Iniciei meus trabalhos na empresa como suporte técnico (telemarketing), trabalhando depois com retenção de cancelamento, back office financeiro, qualidade e por fim me tornando supervisor do financeiro (call center e adm).</p>
+            <p className="mt-2">Provedor de internet banda larga de tecnologia fibra óptica. Iniciei meus trabalhos na empresa como suporte técnico (telemarketing), trabalhando depois com retenção de cancelamento, back office financeiro, qualidade e, por fim, tornando-me supervisor do financeiro (call center e administrativo).</p>
           </div>
 
           <div className="experience-item">
             <h4 className="font-semibold">Operador de SAC (retenção)</h4>
             <p className="text-gray-600">Atento | Rio de Janeiro</p>
             <p className="text-gray-500">11/2014 - 10/2018</p>
-            <p className="mt-2">Atender as solicitações e reclamações dos clientes da empresa Convencer os clientes que querem cancelar o produto a permanecerem com ele explicando-lhes melhor à respeito dos benefícios e vantagens do produto que porventura os clientes não conheçam.</p>
+            <p className="mt-2">Atendimento às solicitações e reclamações dos clientes da empresa. Convencer os clientes que desejam cancelar o produto a permanecerem com ele, explicando-lhes melhor sobre os benefícios e vantagens do serviço, que, porventura, não conheçam.</p>
           </div>
 
           <div className="experience-item">
-            <h4 className="font-semibold">DIRIGENTE DO SERVIÇO PUBLICO MUNICIPAL</h4>
-            <p className="text-gray-600">MUNICÍPIO DE DUQUE DE CAXIAS | Rio de Janeiro, Duque de Caxias - RJ</p>
+            <h4 className="font-semibold">Dirigente do Serviço Público Municipal</h4>
+            <p className="text-gray-600">Município de Duque de Caxias | Rio de Janeiro, Duque de Caxias - RJ</p>
             <p className="text-gray-500">03/2014 - 06/2014</p>
-            <p className="mt-2">Prestei serviços de T.I na Secretaria de Educação de Duque de Caxias, formatando computadores, trocando periféricos e prestando suporte geral (apenas Windows e Office).</p>
+            <p className="mt-2">Prestei serviços de TI na Secretaria de Educação de Duque de Caxias, formatando computadores, trocando periféricos e prestando suporte geral (apenas Windows e Office).</p>
           </div>
 
           <div className="experience-item">
-            <h4 className="font-semibold">Freelance em design gráfico direcionado ao marketing digital</h4>
-            <p className="text-gray-600">Freelance | Rio de Janeiro</p>
+            <h4 className="font-semibold">Freelancer em Design Gráfico Direcionado ao Marketing Digital</h4>
+            <p className="text-gray-600">Freelancer | Rio de Janeiro</p>
             <p className="text-gray-500">10/2012 - 12/2013</p>
-            <p className="mt-2">Criar através dos softwares Photoshop e Corel banners (estáticos e animados) e outros tipos de artes gráficas direcionados ao marketing digital</p>
+            <p className="mt-2">Criação de banners (estáticos e animados) e outros tipos de artes gráficas direcionadas ao marketing digital, utilizando os softwares Photoshop e CorelDRAW.</p>
           </div>
 
           <div className="experience-item">
-            <h4 className="font-semibold">Operador de tele-atendimento</h4>
+            <h4 className="font-semibold">Operador de Teleatendimento</h4>
             <p className="text-gray-600">Contax | Rio de Janeiro</p>
             <p className="text-gray-500">01/2011 - 07/2012</p>
-            <p className="mt-2">Dar suporte a problemas em linhas telefônicas através do atendimento ao cliente</p>
+            <p className="mt-2">Suporte a problemas em linhas telefônicas por meio do atendimento ao cliente.</p>
           </div>
         </div>
       )

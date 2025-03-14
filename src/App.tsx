@@ -15,7 +15,7 @@ function App() {
   };
 
   const sections: Section[] = [
-    /*{
+    {
       id: 'experience',
       title: 'Experiência',
       content: (
@@ -77,7 +77,7 @@ function App() {
           </div>
         </div>
       )
-    },*/
+    },
     {
       id: 'education',
       title: 'Formação Acadêmica',
@@ -225,8 +225,8 @@ function App() {
                 {section.title}
               </button>
               <div
-                className={`transition-all duration-300 ease-in-out ${
-                  activeSection === section.id ? 'max-h-[2000px] opacity-100' : 'max-h-0 opacity-0'
+                className={`transition-all duration-500 ease-in-out ${
+                  activeSection === section.id ? 'max-h-[5000px] opacity-100' : 'max-h-0 opacity-0'
                 } overflow-hidden`}
               >
                 <div className="p-6 bg-white">{section.content}</div>

@@ -213,7 +213,7 @@ function App() {
         <section className="mb-12">
           <h2 className="text-2xl font-bold mb-4">Resumo</h2>
           <p className="text-gray-700 leading-relaxed">
-            Profissional dedicado, desenvolvedor full stack em formação, com larga experiência em atendimento ao cliente e suporte técnico (presencial e remoto) buscando oportunidades para aplicar meus conhecimentos e habilidades em projetos desafiadores, com foco em desenvolver soluções eficazes e de qualidade.
+            Profissional dedicado, desenvolvedor full stack em formação, com larga experiência em atendimento ao cliente e suporte técnico (presencial e remoto), buscando oportunidades para aplicar meus conhecimentos e habilidades em projetos desafiadores, com foco em desenvolver soluções eficazes e de qualidade.
           </p>
         </section>
 

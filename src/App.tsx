@@ -23,7 +23,7 @@ function App() {
           <div className="experience-item">
             <h4 className="font-semibold">Analista de TI Jr</h4>
             <p className="text-gray-600">Externa Network | Rio de Janeiro, RJ</p>
-            <p className="text-gray-500">06/2023 - Atual</p>
+            <p className="text-gray-500">06/2023 - 06/2025</p>
             <p className="mt-2">Atendimento remoto (telefone, WhatsApp, abertura de chamados) e presencial aos usuários de outras empresas (clientes da empresa na qual trabalho) para assuntos de maior complexidade, que exigem análise e desenvolvimento de respostas específicas. Análise dos possíveis erros apresentados durante os atendimentos, busca e orientação para a solução solicitada e, de acordo com o problema, agendamento de visita técnica para resolver trabalhos que não possam ser resolvidos remotamente (acesso via AnyDesk e Área de Trabalho Remota do Windows). Auxílio, orientação e treinamento de clientes, bem como criação de documentação e tutoriais, quando necessário. Atualmente, encarregado de gerir a TI do Cemitério da Penitência, ficando responsável por prestar manutenção e suporte a computadores, notebooks, impressoras, TV Box, internet (cabeada e Wi-Fi), VOIP, DVRs e acesso às câmeras, Terminal Service, Active Directory, Windows Server e servidor de impressão.</p>
           </div>
 
@@ -140,6 +140,11 @@ function App() {
       content: (
         <div className="space-y-4">
           <div>
+            <p className="mb-2"><strong>Atendimento ao Cliente e Suporte Técnico</strong></p>
+            <p className="mb-2">- Oferecer um atendimento receptivo ágil, empático e eficaz por meio de chat, e-mail, WhatsApp e outras ferramentas de suporte.</p>
+            <p className="mb-2">- Atuar na resolução de demandas técnicas e funcionais, garantindo a satisfação do cliente e a fidelização através de um relacionamento humano e personalizado.</p>
+            <p className="mb-2">- Utilizar boas práticas de comunicação escrita e automações inteligentes para otimizar o tempo de resposta e a qualidade do suporte.</p>
+            <p className="mb-4"></p>
             <p className="mb-2"><strong>Desenvolvimento Web</strong></p>
             <p className="mb-2">- Desenvolver aplicações web escaláveis e responsivas.</p>
             <p className="mb-2">- Criar soluções personalizadas e completas, com frontend e backend.</p>
@@ -194,7 +199,7 @@ function App() {
                 </div>
                 <div className="flex items-center gap-2">
                   <Phone size={16} />
-                  <span>21-967803450</span>
+                  <span>21-996215214</span>
                 </div>
               </div>
             </div>

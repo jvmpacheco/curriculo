@@ -195,7 +195,7 @@ function App() {
                 </div>
                 <div className="flex items-center gap-2">
                   <MessageCircle size={16} />
-                  <a href="https://wa.me/5521973058890" target="_blank" rel="noopener noreferrer" className="hover:text-blue-100 transition-colors duration-200 underline font-semibold">Whatsapp</a>
+                  <a href="https://wa.me/5592994431074" target="_blank" rel="noopener noreferrer" className="hover:text-blue-100 transition-colors duration-200 underline font-semibold">Whatsapp</a>
                 </div>
                 <div className="flex items-center gap-2">
                   <Phone size={16} />
